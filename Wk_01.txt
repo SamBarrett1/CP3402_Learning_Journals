@@ -3,9 +3,16 @@ Weekly Learning Journals
 By Sam Barrett
 13038579
 
-Week: 
+Week: 1
 Learning Activities & Resources:
-Estimated Hours:
+- This week I have read over my notes from the year 1 web design subject. I practiced with VSCode and pushed the practical work to a public Github repository.
+- I looked into Vagrant with the HashiCorp website and watched some online video tutorials to see it in use. 
+
+Estimated Hours: 12
+
 Content Insights:
+- I like the way Vagrant standardises the deployment of virtual machines, to keep them the same. I see how Docker can do this in lighter way without a hypervisor.
+
 Career/Employability/Learning Insights:
+- I can see how this subject can assist in web design as it looks to cover full-stack web development, with and without a CMS.
 
